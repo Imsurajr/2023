@@ -159,14 +159,6 @@ I will merge all pull requests as quickly as possible, as long as they meet the 
 Happy coding!
 
 
-## Project Admin 😎:
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Midway91"><img src="https://avatars.githubusercontent.com/u/99934396?v=4" width="100px;" alt=""/><br /><sub><b>Midway91</b></sub></a></td>
-  </tr>
-</table>
-
 
 ***
 <h2 align="center">
