@@ -167,14 +167,6 @@ Happy coding!
   </tr>
 </table>
 
-## Project Contributors ⭐:
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/Midway91/HactoberFest2023/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Midway91/HactoberFest2023" /> 
-</a>
-
 
 ***
 <h2 align="center">
